@@ -1,0 +1,362 @@
+﻿id_asignatura,nombre_asignatura,id_carrera,semestre_plan,creditos
+1,Comunicación Efectiva,1,1,3
+2,Contabilidad,1,1,4
+3,Derecho Constitucional,1,1,4
+4,Introducción a la Profesión,1,1,3
+5,Neuropsicología,1,1,6
+6,Física,1,1,3
+7,Microbiología,1,2,4
+8,Patología,1,2,3
+9,Auditoría,1,2,4
+10,Investigación de Operaciones,1,2,6
+11,Finanzas,1,3,5
+12,Cálculo,1,3,4
+13,Marketing,1,3,5
+14,Contabilidad II,1,3,4
+15,Metodología de la Investigación,1,4,3
+16,Estadística,1,4,6
+17,Introducción a la Profesión II,1,4,5
+18,Taller de Proyectos,1,4,5
+19,Recursos Humanos,1,5,3
+20,Estructuras de Datos,1,5,3
+21,Auditoría II,1,5,5
+22,Mecánica,1,5,5
+23,Bioquímica,1,6,3
+24,Física II,1,6,4
+25,Microeconomía,1,6,3
+26,Derecho Constitucional II,1,6,3
+27,Estructuras de Datos II,1,6,5
+28,Recursos Humanos II,1,6,5
+29,Bases de Datos,1,7,5
+30,Microbiología II,1,7,5
+31,Práctica Profesional,1,7,3
+32,Psicología Social,1,7,4
+33,Derecho Civil,1,8,4
+34,Recursos Humanos III,1,8,6
+35,Contabilidad III,1,8,4
+36,Práctica Profesional II,1,8,5
+37,Química General,1,8,4
+38,Física III,1,8,5
+39,Contabilidad IV,1,9,3
+40,Microbiología III,1,9,5
+41,Microbiología IV,1,9,6
+42,Sistemas Operativos,1,9,6
+43,Ética Profesional,1,9,5
+44,Derecho Civil II,1,10,5
+45,Neuropsicología II,1,10,6
+46,Neuropsicología III,1,10,6
+47,Bases de Datos II,1,10,4
+48,Patología,2,1,6
+49,Estadística,2,1,3
+50,Comunicación Efectiva,2,1,4
+51,Mecánica,2,1,4
+52,Marketing,2,2,3
+53,Estructuras de Datos,2,2,6
+54,Psicología Social,2,2,6
+55,Filosofía del Derecho,2,2,5
+56,Auditoría,2,2,3
+57,Práctica Profesional,2,2,3
+58,Derecho Procesal,2,3,5
+59,Investigación de Operaciones,2,3,5
+60,Comunicación Efectiva II,2,3,5
+61,Marketing II,2,3,4
+62,Recursos Humanos,2,3,3
+63,Economía,2,3,4
+64,Introducción a la Profesión,2,4,5
+65,Mecánica II,2,4,4
+66,Ética Profesional,2,4,5
+67,Anatomía,2,4,3
+68,Psicología Social II,2,4,5
+69,Farmacología,2,4,3
+70,Bases de Datos,2,5,5
+71,Derecho Civil,2,5,3
+72,Derecho Civil II,2,5,3
+73,Estadística II,2,5,6
+74,Derecho Procesal II,2,6,4
+75,Inglés,2,6,6
+76,Auditoría II,2,6,4
+77,Economía II,2,6,6
+78,Derecho Procesal III,2,7,4
+79,Macroeconomía,2,7,6
+80,Seminario de Título,2,7,5
+81,Finanzas,2,7,6
+82,Derecho Civil III,2,8,4
+83,Programación,2,8,5
+84,Álgebra,2,8,4
+85,Neuropsicología,2,8,4
+86,Programación II,2,9,3
+87,Derecho Constitucional,2,9,3
+88,Física,2,9,5
+89,Programación III,2,9,4
+90,Seminario de Título II,2,10,6
+91,Microbiología,2,10,4
+92,Costos,2,10,6
+93,Derecho Civil IV,2,10,6
+94,Gestión de Operaciones,2,10,4
+95,Introducción a la Profesión,3,1,6
+96,Taller de Proyectos,3,1,6
+97,Gestión de Operaciones,3,1,6
+98,Química General,3,1,3
+99,Sistemas Operativos,3,2,5
+100,Introducción a la Profesión II,3,2,4
+101,Bioquímica,3,2,4
+102,Derecho Procesal,3,2,6
+103,Marketing,3,3,4
+104,Contabilidad,3,3,6
+105,Derecho Civil,3,3,3
+106,Finanzas,3,3,3
+107,Investigación de Operaciones,3,4,3
+108,Estadística,3,4,4
+109,Anatomía,3,4,6
+110,Farmacología,3,4,6
+111,Sistemas Operativos II,3,5,3
+112,Anatomía II,3,5,6
+113,Cálculo,3,5,6
+114,Economía,3,5,6
+115,Marketing II,3,6,6
+116,Ética Profesional,3,6,4
+117,Microeconomía,3,6,4
+118,Química General II,3,6,3
+119,Psicología General,3,6,3
+120,Neuropsicología,3,7,6
+121,Patología,3,7,4
+122,Química General III,3,7,3
+123,Fisiología,3,7,3
+124,Programación,3,8,4
+125,Sistemas Operativos III,3,8,3
+126,Costos,3,8,4
+127,Neuropsicología II,3,8,3
+128,Termodinámica,3,8,3
+129,Gestión de Operaciones II,3,8,5
+130,Microbiología,3,9,5
+131,Derecho Civil II,3,9,5
+132,Sistemas Operativos IV,3,9,4
+133,Seminario de Título,3,9,5
+134,Recursos Humanos,3,9,5
+135,Cálculo II,3,10,6
+136,Termodinámica II,3,10,3
+137,Programación II,3,10,4
+138,Patología II,3,10,5
+139,Taller de Proyectos II,3,11,3
+140,Derecho Civil III,3,11,5
+141,Microeconomía II,3,11,4
+142,Finanzas II,3,11,5
+143,Investigación de Operaciones II,3,12,3
+144,Seminario de Título II,3,12,5
+145,Seminario de Título III,3,12,3
+146,Inglés,3,12,5
+147,Comunicación Efectiva,3,12,3
+148,Auditoría,3,12,4
+149,Microeconomía III,3,13,4
+150,Metodología de la Investigación,3,13,4
+151,Práctica Profesional,3,13,5
+152,Patología III,3,13,6
+153,Economía II,3,13,3
+154,Mecánica,3,14,6
+155,Contabilidad II,3,14,3
+156,Cálculo III,3,14,5
+157,Inglés II,3,14,5
+158,Finanzas,4,1,6
+159,Auditoría,4,1,3
+160,Comunicación Efectiva,4,1,3
+161,Ética Profesional,4,1,3
+162,Neuropsicología,4,2,4
+163,Marketing,4,2,4
+164,Física,4,2,5
+165,Bases de Datos,4,2,3
+166,Taller de Proyectos,4,2,4
+167,Derecho Civil,4,3,3
+168,Taller de Proyectos II,4,3,6
+169,Termodinámica,4,3,4
+170,Derecho Civil II,4,3,4
+171,Fisiología,4,3,6
+172,Álgebra,4,3,4
+173,Metodología de la Investigación,4,4,6
+174,Seminario de Título,4,4,4
+175,Contabilidad,4,4,4
+176,Introducción a la Profesión,4,4,6
+177,Física II,4,4,6
+178,Derecho Constitucional,4,4,4
+179,Taller de Proyectos III,4,5,5
+180,Derecho Constitucional II,4,5,4
+181,Álgebra II,4,5,4
+182,Sistemas Operativos,4,5,5
+183,Contabilidad II,4,5,3
+184,Taller de Proyectos IV,4,6,6
+185,Práctica Profesional,4,6,5
+186,Álgebra III,4,6,3
+187,Economía,4,6,4
+188,Neuropsicología II,4,6,5
+189,Introducción a la Profesión II,4,7,6
+190,Taller de Proyectos V,4,7,5
+191,Marketing II,4,7,3
+192,Estructuras de Datos,4,7,4
+193,Física III,4,8,6
+194,Cálculo,4,8,4
+195,Bases de Datos II,4,8,6
+196,Programación,4,8,5
+197,Termodinámica II,4,8,5
+198,Comunicación Efectiva II,4,9,5
+199,Patología,4,9,5
+200,Seminario de Título II,4,9,6
+201,Psicología General,4,9,6
+202,Microeconomía,4,9,4
+203,Bioquímica,4,9,6
+204,Estructuras de Datos II,4,10,4
+205,Termodinámica III,4,10,5
+206,Sistemas Operativos II,4,10,3
+207,Macroeconomía,4,10,5
+208,Microbiología,4,10,6
+209,Neuropsicología III,4,10,5
+210,Finanzas,5,1,6
+211,Práctica Profesional,5,1,4
+212,Patología,5,1,6
+213,Anatomía,5,1,3
+214,Microeconomía,5,1,5
+215,Derecho Civil,5,2,5
+216,Derecho Constitucional,5,2,4
+217,Ética Profesional,5,2,3
+218,Física,5,2,4
+219,Termodinámica,5,3,3
+220,Recursos Humanos,5,3,6
+221,Mecánica,5,3,4
+222,Estructuras de Datos,5,3,6
+223,Sistemas Operativos,5,3,4
+224,Investigación de Operaciones,5,4,3
+225,Introducción a la Profesión,5,4,6
+226,Derecho Constitucional II,5,4,4
+227,Filosofía del Derecho,5,4,6
+228,Auditoría,5,5,4
+229,Comunicación Efectiva,5,5,6
+230,Inglés,5,5,6
+231,Seminario de Título,5,5,5
+232,Termodinámica II,5,6,6
+233,Auditoría II,5,6,6
+234,Anatomía II,5,6,6
+235,Finanzas II,5,6,5
+236,Derecho Civil II,5,6,5
+237,Farmacología,5,7,4
+238,Contabilidad,5,7,6
+239,Programación,5,7,5
+240,Derecho Civil III,5,7,5
+241,Metodología de la Investigación,5,7,5
+242,Derecho Procesal,5,7,3
+243,Ética Profesional II,5,8,4
+244,Estructuras de Datos II,5,8,4
+245,Microbiología,5,8,3
+246,Gestión de Operaciones,5,8,6
+247,Derecho Procesal II,5,9,6
+248,Gestión de Operaciones II,5,9,3
+249,Microbiología II,5,9,6
+250,Estructuras de Datos III,5,9,3
+251,Costos,5,9,6
+252,Cálculo,5,10,5
+253,Macroeconomía,5,10,6
+254,Gestión de Operaciones III,5,10,4
+255,Farmacología II,5,10,4
+256,Contabilidad II,5,10,6
+257,Álgebra,5,11,6
+258,Metodología de la Investigación II,5,11,6
+259,Anatomía III,5,11,6
+260,Inglés II,5,11,3
+261,Sistemas Operativos II,5,11,3
+262,Investigación de Operaciones II,5,12,6
+263,Inglés III,5,12,6
+264,Fisiología,5,12,3
+265,Economía,5,12,6
+266,Microbiología,6,1,6
+267,Psicología General,6,1,5
+268,Estructuras de Datos,6,1,5
+269,Gestión de Operaciones,6,1,5
+270,Estadística,6,1,6
+271,Derecho Procesal,6,2,3
+272,Taller de Proyectos,6,2,4
+273,Investigación de Operaciones,6,2,3
+274,Investigación de Operaciones II,6,2,3
+275,Derecho Civil,6,3,4
+276,Álgebra,6,3,4
+277,Derecho Civil II,6,3,4
+278,Salud Pública,6,3,3
+279,Microbiología II,6,4,6
+280,Economía,6,4,5
+281,Anatomía,6,4,3
+282,Anatomía II,6,4,5
+283,Introducción a la Profesión,6,4,3
+284,Macroeconomía,6,4,6
+285,Bioquímica,6,5,3
+286,Neuropsicología,6,5,4
+287,Introducción a la Profesión II,6,5,5
+288,Práctica Profesional,6,5,3
+289,Costos,6,5,3
+290,Derecho Procesal II,6,6,6
+291,Seminario de Título,6,6,5
+292,Programación,6,6,5
+293,Cálculo,6,6,6
+294,Farmacología,6,6,3
+295,Bases de Datos,6,7,6
+296,Ética Profesional,6,7,6
+297,Fisiología,6,7,5
+298,Termodinámica,6,7,6
+299,Recursos Humanos,6,7,6
+300,Neuropsicología II,6,8,5
+301,Psicología General II,6,8,4
+302,Estadística II,6,8,5
+303,Finanzas,6,8,4
+304,Recursos Humanos II,6,8,6
+305,Metodología de la Investigación,6,8,3
+306,Psicología General III,6,9,4
+307,Farmacología II,6,9,4
+308,Taller de Proyectos II,6,9,5
+309,Metodología de la Investigación II,6,9,5
+310,Psicología Social,6,9,5
+311,Cálculo II,6,10,4
+312,Estadística III,6,10,4
+313,Gestión de Operaciones II,6,10,6
+314,Auditoría,6,10,4
+315,Salud Pública II,6,10,6
+316,Finanzas II,6,10,3
+317,Microeconomía,7,1,4
+318,Sistemas Operativos,7,1,4
+319,Macroeconomía,7,1,5
+320,Salud Pública,7,1,5
+321,Auditoría,7,2,5
+322,Taller de Proyectos,7,2,6
+323,Contabilidad,7,2,5
+324,Economía,7,2,4
+325,Comunicación Efectiva,7,2,4
+326,Comunicación Efectiva II,7,3,4
+327,Bioquímica,7,3,4
+328,Salud Pública II,7,3,5
+329,Neuropsicología,7,3,5
+330,Introducción a la Profesión,7,3,4
+331,Derecho Constitucional,7,4,5
+332,Fisiología,7,4,5
+333,Cálculo,7,4,4
+334,Contabilidad II,7,4,3
+335,Química General,7,4,5
+336,Inglés,7,5,6
+337,Introducción a la Profesión II,7,5,3
+338,Costos,7,5,5
+339,Salud Pública III,7,5,6
+340,Finanzas,7,5,5
+341,Fisiología II,7,5,3
+342,Salud Pública IV,7,6,3
+343,Programación,7,6,6
+344,Farmacología,7,6,3
+345,Costos II,7,6,3
+346,Ética Profesional,7,6,4
+347,Macroeconomía II,7,7,3
+348,Derecho Civil,7,7,3
+349,Auditoría II,7,7,6
+350,Psicología Social,7,7,4
+351,Filosofía del Derecho,7,7,6
+352,Finanzas II,7,7,6
+353,Neuropsicología II,7,8,6
+354,Macroeconomía III,7,8,3
+355,Termodinámica,7,8,3
+356,Microbiología,7,8,4
+357,Economía II,7,8,3
+358,Derecho Civil II,7,9,4
+359,Auditoría III,7,9,3
+360,Anatomía,7,9,3
+361,Gestión de Operaciones,7,9,6
